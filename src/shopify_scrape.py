@@ -27,7 +27,7 @@ def get_product_info(json_url, base_url):
     tags = [item['tags'] for item in products]
     variants = [item['variants'] for item in products]
     
-    eastern = timezone(timedelta(hours=-5))
+    eastern = timezone(timedelta(hours=-4))
     now = [datetime.now(tz=eastern).replace(microsecond=0).isoformat()]
     data_pull_datetime = now * len(ids)
     
