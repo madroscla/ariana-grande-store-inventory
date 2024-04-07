@@ -1,6 +1,6 @@
-# ariana_grande_store_inventory
+# ariana-grande-store-inventory
 
-The repository contains an ongoing project to collect data from [Ariana Grande's webstore](https://shop.arianagrande.com/), hosted by Shopify. Data was collected on a serverless AWS framework, using AWS Lambda, Amazon S3, and Amazon Eventbridge, from 6 March 2024 until 7 April 2024.
+The repository contains an ongoing project to collect data from [Ariana Grande's webstore](https://shop.arianagrande.com/), hosted by Shopify. Data was collected on a serverless AWS framework, using AWS Lambda, Amazon S3, and Amazon Eventbridge, from 6 March 2024 until 7 April 2024. Data modeling and predictive analytics is the next step.
 
 ## Architecture and process
 
